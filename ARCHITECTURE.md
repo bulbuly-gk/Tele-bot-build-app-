@@ -2,10 +2,10 @@
 
 ## स्टैक (Bulbuly पर)
 - वेब ऐप + PWA (Android पर इंस्टॉल योग्य; बाद में Play Store हेतु TWA पैकेज)
-- TanStack Start (SSR) + सर्वर फ़ंक्शन; डेटाबेस/लॉगिन: Lovable Cloud (Postgres)
+- TanStack Start (SSR) + सर्वर फ़ंक्शन; डेटाबेस/लॉगिन: Bulbuly Cloud (Postgres)
 - जॉब क्यू: DB तालिका + शेड्यूल्ड हैंडलर (BullMQ की जगह)
 - सैंडबॉक्स: बाहरी आइसोलेटेड रनर (Judge0 / अपना Firecracker सर्वर) — मुख्य सर्वर पर कभी नहीं
-- AI: Lovable AI Gateway; पेमेंट: Razorpay
+- AI: Bulbuly AI Gateway; पेमेंट: Razorpay
 
 ## डेटाबेस (बन चुका)
 | तालिका | काम |
